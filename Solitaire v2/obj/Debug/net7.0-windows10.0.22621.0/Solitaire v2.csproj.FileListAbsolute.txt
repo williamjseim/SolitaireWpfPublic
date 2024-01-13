@@ -1,0 +1,29 @@
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\Solitaire v2.exe
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\Solitaire v2.deps.json
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\Solitaire v2.runtimeconfig.json
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\Solitaire v2.dll
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\Solitaire v2.pdb
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+F:\GitHub\Solitaire-v2\Solitaire v2\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\MainWindow.g.cs
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\UserControls\Card.g.cs
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\UserControls\Solitaire.g.cs
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\App.g.cs
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\GeneratedInternalTypeHelper.g.cs
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2_MarkupCompile.cache
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2_MarkupCompile.lref
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\MainWindow.baml
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\UserControls\Card.baml
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\UserControls\Solitaire.baml
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.g.resources
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.AssemblyInfoInputs.cache
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.AssemblyInfo.cs
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.csproj.CoreCompileInputs.cache
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.sourcelink.json
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.csproj.CopyComplete
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.dll
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\refint\Solitaire v2.dll
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.pdb
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\Solitaire v2.genruntimeconfig.cache
+F:\GitHub\Solitaire-v2\Solitaire v2\obj\Debug\net7.0-windows10.0.22621.0\ref\Solitaire v2.dll
